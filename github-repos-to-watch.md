@@ -19,14 +19,33 @@ This file contains a curated list of GitHub repositories I'm following to deepen
 
 ## 🔍 Blue Team / Detection Engineering / SOC
 
-- [BlueTeam-Tools](https://github.com/MeitarRosenberg/BlueTeam-Tools)  
-  🛡️ Tools for threat hunting, detection, IR.
+Blue Team Resources #1
 
-- [Sigma](https://github.com/SigmaHQ/sigma)  
-  📖 Generic signature format for SIEM detection rules.
+- BlueTeam-Tools by A-poc 
+https://lnkd.in/dTPtWD-S
 
-- [DetectionLab](https://github.com/clong/DetectionLab)  
-  🧪 Full virtual lab to practice SOC and detection engineering.
+- Awesome Cybersecurity Blue Team by fabacab
+https://lnkd.in/e83EfXP
+
+- Blue Team Playbooks by AlexandreSantosal91
+https://lnkd.in/d7-5eY9X
+
+- LetsDefend and SecurityBlue
+https://letsdefend.io/
+https://lnkd.in/ef4kFQX
+
+- Awesome Incident Response by meirwah
+https://lnkd.in/eQ-XRmH
+
+- Awesome Forensics by cugu
+https://lnkd.in/dCgM7UZi
+
+- Awesome Blue Team Operations by CyberSecurityUP
+https://lnkd.in/eNt_Uyh
+
+- 100 Security Operations Center Tools by CyberSecurityUP
+https://lnkd.in/dyg5jNV8
+
 
 ---
 
