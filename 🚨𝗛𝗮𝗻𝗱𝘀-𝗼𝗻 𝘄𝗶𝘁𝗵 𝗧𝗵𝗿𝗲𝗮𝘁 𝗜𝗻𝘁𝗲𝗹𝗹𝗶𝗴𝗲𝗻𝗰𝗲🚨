@@ -1,0 +1,34 @@
+🚨𝗛𝗮𝗻𝗱𝘀-𝗼𝗻 𝘄𝗶𝘁𝗵 𝗧𝗵𝗿𝗲𝗮𝘁 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲🚨 
+This post will upskill your security career with hands-on experience in Threat Intelligence, IOC Hunting, Threat Feeds, MITRE ATT&CK Mapping, and Threat Hunting.
+
+Thank you for creating resources for the threat hunting community and beyond Rajneesh G.
+
+🔰 𝗕𝗮𝘀𝗶𝗰𝘀 𝗼𝗳 𝗧𝗵𝗿𝗲𝗮𝘁 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
+🔶 Introduction to Threat Intelligence? [Beginner Guide] https://lnkd.in/dYa9v4Bb
+🔶 Understanding IOCs (Indicators of Compromise) and TTPs https://lnkd.in/drtN8ksP
+🔶 [Crash Course] MITRE ATT&CK Tutorial https://lnkd.in/dX5udJ9g
+
+
+🔰 𝗧𝗵𝗿𝗲𝗮𝘁 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗳𝗼𝗿 𝗦𝗢𝗖 𝗧𝗲𝗮𝗺
+🔶 Setting Up a Threat Intelligence SIEM Pipeline using OpenCTI https://lnkd.in/dVV87Art
+🔶Automated IOC Enrichment using Virustotal with Wazuh https://lnkd.in/dT6YnfpE
+🔶 Real-time Threat Detection using Suricata IDS https://lnkd.in/dH4R4J-s
+🔶 Blocking Malicious Domains using OTX API on Splunk shttps://lnkd.in/d_aVB2vK
+
+🔰 𝗧𝗵𝗿𝗲𝗮𝘁 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗳𝗼𝗿 𝗧𝗵𝗿𝗲𝗮𝘁 𝗛𝘂𝗻𝘁𝗲𝗿𝘀
+🔶 Hunting for Active C2 Servers using Zeek https://lnkd.in/deJvP6Ew
+🔶 [Crash Course]Malware Threat Hunting using YARA https://lnkd.in/dxsfi7Rk
+🔶 Threat Hunting with Sigma rules https://lnkd.in/d7R-PFy6
+🔶 Identifying Lateral Movement using Suricata https://lnkd.in/dfw7Q8dv
+
+
+🔰 𝗧𝗵𝗿𝗲𝗮𝘁 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗳𝗼𝗿 𝗖𝗧𝗜 𝗧𝗲𝗮𝗺
+🔶 Building a Threat Intelligence program using MISP https://lnkd.in/drg67Jc7
+🔶 Automating Threat Intel Feeds using TAXII https://lnkd.in/dsvjsakU
+🔶 Mapping APT TTPs With MITRE ATT&CK Navigator https://lnkd.in/dW9JV5NB
+🔶 Investigating APT Campaigns https://lnkd.in/diVrs9zh
+
+🔰 𝗧𝗵𝗿𝗲𝗮𝘁 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗳𝗼𝗿 𝗖𝗜𝗦𝗢𝘀 & 𝗥𝗜𝗦𝗞 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧
+🔶 Threat Intelligence-Driven Risk Assessments https://d3fend.mitre.org/
+🔶 Using Threat Intelligence for Compliance https://lnkd.in/d37n7s-d
+🔶 Cyber Threat Reports for C-Level Decision Making https://lnkd.in/dhci4CPA
